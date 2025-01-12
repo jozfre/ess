@@ -34,7 +34,7 @@
             </div>
           </div>
         </div>
-        <label for="password" class="form-label">Email</label>
+        <label for="password" class="form-label">Password</label>
         <div class="input-group mb-3">
           <input type="password" class="form-control" placeholder="********">
           <div class="input-group-append">
