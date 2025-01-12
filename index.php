@@ -22,7 +22,7 @@
       <a class="h1"><b>Event Scheduling System</b> (ESS)</a>
     </div>
     <div class="card-body">
-      <p class="login-box-msg">Enter your email below to login to your account</p>
+      <p class="login-box-msg">Enter your email and password below to log in as admin</p>
 
       <form action="" method="post">
         <label for="email" class="form-label">Email</label>
