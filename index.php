@@ -17,7 +17,12 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <!-- /.login-logo -->
+  <div class="login-logo"></div>
+  </div>
   <div class="card card-outline card-green">
+  <div class="card-header text-center">
+    <img src="images/logo-mbtho.png" alt="Logo MBTHO" class="img-fluid" style="max-width: 150px;">
+  </div>
     <div class="card-header text-center">
       <a class="h1"><b>Event Scheduling System</b> (ESS)</a>
     </div>
@@ -49,7 +54,7 @@
           </div>
           <!-- /.col -->
           <div class="col-12">
-            <button type="submit" class="btn btn-primary btn-block">Log In as Admin</button>
+            <button type="submit" class="btn btn-success btn-block">Log In as Admin</button>
           </div>
           <!-- /.col -->
         </div>
