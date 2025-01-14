@@ -159,23 +159,23 @@
                 <div class="card-body">
                   <div class="form-group">
                     <label for="name">Staff Name</label>
-                    <input name="name" type="text" class="form-control" id="name" placeholder="Enter new staff's name" title="Please enter new staff's name">
+                    <input name="name" type="text" class="form-control" id="name" placeholder="Enter new staff's name" title="Please enter new staff's name" required>
                   </div>
                   <div class="form-group">
                     <label for="telNum">Telephone Number</label>
-                    <input name="telNum" type="text" class="form-control" id="telNum" type="tel" placeholder="Enter new staff's telephone number" pattern="[0-9]{10}" title="Please enter a valid telephone number">
+                    <input name="telNum" type="text" class="form-control" id="telNum" type="tel" placeholder="Enter new staff's telephone number" pattern="[0-9]{10}" title="Please enter a valid telephone number" required>
                   </div>
                   <div class="form-group">
                     <label for="email">Email</label>
-                    <input name="email" type="email" class="form-control" id="email" placeholder="Enter new staff's email" title="Please enter new staff's email">
+                    <input name="email" type="email" class="form-control" id="email" placeholder="Enter new staff's email" title="Please enter new staff's email" required>
                   </div>
                   <div class="form-group">
                     <label for="password">Password</label>
-                    <input name="password" type="password" class="form-control" id="password" placeholder="Enter new staff's password" title="Please enter new staff's password">
+                    <input name="password" type="password" class="form-control" id="password" placeholder="Enter new staff's password" title="Please enter new staff's password" required>
                   </div>
                   <div class="form-group">
                     <label for="confirmPassword">Confirm Password</label>
-                    <input name="confirmPassword" type="password" class="form-control" id="confirmPassword" placeholder="Enter new staff's confirmed password" title="Please enter new staff's confirmed password">
+                    <input name="confirmPassword" type="password" class="form-control" id="confirmPassword" placeholder="Enter new staff's confirmed password" title="Please enter new staff's confirmed password" required>
                   </div>
                 <!-- /.card-body -->
 
