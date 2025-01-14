@@ -32,7 +32,7 @@
       <form action="" method="post">
         <label for="email" class="form-label">Email</label>
         <div class="input-group mb-3">
-          <input type="email" class="form-control" placeholder="example@email.com">
+          <input name="email" id="email" type="email" class="form-control" placeholder="example@email.com">
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-envelope"></span>
@@ -41,7 +41,7 @@
         </div>
         <label for="password" class="form-label">Password</label>
         <div class="input-group mb-3">
-          <input type="password" class="form-control" placeholder="********">
+          <input name="password" id="password" type="password" class="form-control" placeholder="********">
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-lock"></span>
@@ -62,7 +62,7 @@
 
       <div class="social-auth-links text-center mb-3">
         <p>- OR -</p>
-        <a href="#" class="btn btn-block btn-dark">
+        <a href="organizer/continue-as-organizer.php" class="btn btn-block btn-dark">
           Continue as Organizer
         </a>
       </div>
