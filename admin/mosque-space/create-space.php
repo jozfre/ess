@@ -184,7 +184,7 @@
                 <!-- /.card-body -->
 
                 <div class="card-footer d-flex justify-content-end">
-                  <button type="button" class="btn btn-secondary mr-2" onclick="location.href='list-staff.php'">Back</button>
+                  <button type="button" class="btn btn-secondary mr-2" onclick="location.href='list-space.php'">Back</button>
                   <button type="submit" class="btn btn-primary" name="submit">Submit</button>
                 </div>
               </form>
