@@ -113,7 +113,7 @@
       </nav>
       <!-- /.sidebar-menu -->
       <div class="mt-auto mb-3">
-            <a href="logout.php" class="btn btn-danger btn-block text-white">
+            <a href="../../php/logout.php" class="btn btn-danger btn-block text-white">
                 <i class="nav-icon fas fa-sign-out-alt"></i> Log Out
             </a>
         </div>
