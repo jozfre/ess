@@ -162,7 +162,7 @@
                   <tr>
                     <th>Space ID</th>
                     <th>Space Name</th>
-                    <th>Space Capacity</th>
+                    <th>Space Capacity (People)</th>
                     <th>Space Type</th>
                     <th>Action</th>
                   </tr>
@@ -171,7 +171,7 @@
                   <tr>
                     <td>0001</td>
                     <td>Dewan Singgah Seri</td>
-                    <td>1000 Orang</td>
+                    <td>1000</td>
                     <td>Prayer Hall</td>
                     <td>
                     <a href="view-space.php?token=<?php echo $user['token']; ?>" class="btn btn-info btnn-block btn-sm float-middle fas fa-eye"></a>
