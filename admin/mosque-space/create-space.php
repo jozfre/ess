@@ -168,10 +168,10 @@
                   <div class="form-group">
                     <label for="spaceType">Space Type</label>
                     <select name="spaceType" id="spaceType" class="form-control" placeholder="Choose Space Type" required>
-                      <option value="1">Prayer Hall</option>
-                      <option value="2">Closed Hall</option>
-                      <option value="3">Meeting Room</option>
-                      <option value="4">Office</option>
+                      <option value="Prayer Hall">Prayer Hall</option>
+                      <option value="Closed Hall">Closed Hall</option>
+                      <option value="Meeting Room<">Meeting Room</option>
+                      <option value="Office">Office</option>
                     </select>
                   </div>
                   <div class="form-group">
