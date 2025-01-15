@@ -179,7 +179,7 @@
                   </div>
                   <div class="form-group">
                     <label for="spaceImage">Image of Space</label>
-                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="background-color: rgba(0, 0, 0, 0.8); border-radius: 10px;">
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel" style="background-color: rgba(0, 0, 0, 0.8); border: 2px solid #ccc; border-radius: 10px;">
                       <div class="carousel-inner text-center">
                         <div class="carousel-item active">
                           <img src="../../images/logo-mbtho.png" class="d-block mx-auto"alt="...">
